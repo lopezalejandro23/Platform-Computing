@@ -31,4 +31,5 @@ PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to
   <li>**Example in bold**</li>
   <li>*Example in italics*</li>
 </ul>
-![Uploading react_about_me_display.jpeg…]()
+![react_about_me_display](https://github.com/lopezalejandro23/Platform-Computing/assets/158085031/ad8893da-de59-4554-a091-de08c3769f28)
+
