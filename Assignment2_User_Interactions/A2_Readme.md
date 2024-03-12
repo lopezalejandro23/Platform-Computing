@@ -33,3 +33,4 @@ PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to
 </ul>
 ![react_about_me_display](https://github.com/lopezalejandro23/Platform-Computing/assets/158085031/ad8893da-de59-4554-a091-de08c3769f28)
 
+![react_about_me_display](https://github.com/lopezalejandro23/Platform-Computing/assets/158085031/dff1d26e-b949-4ba3-b5f0-5929c2e47b1b)
