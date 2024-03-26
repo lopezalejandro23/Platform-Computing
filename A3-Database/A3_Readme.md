@@ -19,6 +19,9 @@ them via user (2 pt).
 ## Screenshot and/or Video Walkthrough
 <img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough'
 width='' alt='Example Video Walkthrough' />
+
+
+
 ## Notes:
 PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to
 add emphasis in text
@@ -26,3 +29,9 @@ add emphasis in text
 <li>**Example in bold**</li>
 <li>*Example in italics*</li>
 </ul>
+
+
+![database-output](https://github.com/lopezalejandro23/Platform-Computing/assets/158085031/1685b241-d31a-41ab-8cf0-0db6c033f1c2)
+
+
+![datebase-output2](https://github.com/lopezalejandro23/Platform-Computing/assets/158085031/47863550-107d-4645-870c-512d39dfed05)
