@@ -1,1 +1,0 @@
-{"version":3,"sources":["scripts/index.js"],"names":["console","log"],"mappings":";AAAAA,QAAQC,IAAI","file":"scripts.a7f61b95.js","sourceRoot":"../src","sourcesContent":["console.log(\"Welcome to Metric Tracker\")"]}
