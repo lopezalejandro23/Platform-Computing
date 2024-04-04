@@ -32,6 +32,4 @@ PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to
 </ul>
 ![about-me-display1](https://github.com/lopezalejandro23/Platform-Computing/assets/158085031/03be4efc-be81-4abe-bbe8-0aa305b49e03)
 
-
-
 ![about-me-display2](https://github.com/lopezalejandro23/Platform-Computing/assets/158085031/d03a63a0-3137-4463-bdc5-95f15b54c9cb)
