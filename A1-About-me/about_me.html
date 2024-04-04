@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title> Alejandro Lopez - About Me</title>
+
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="slide_show_style.css">
+  <script src="main.js"></script>
+  <script src="app.js"></script>
+</head>
+
+
+
+<header>
+  <div>
+  <center><h1>Alejandro Lopez <h1></center>
+</header>
+
+<body>
+
+<div class="topnav">
+  <a href ="https://github.com/lopezalejandro23">  Github</a>
+  <a href="https://www.linkedin.com/in/alejandro-lopez-277877117/"> LinkedIn </a>
+  
+</div>
+<div class="row">
+  <div class="column">
+    <h2>Me</h2>
+    <p>I am 26 year old transfer student. I grew up in Ontario, California and graduated from Chino High School. I come from a family of 5 with an older sister and a younger brother. My family is from Culiacan, Mexico which is considered more in northern part of Mexico. My favorite food to eat at the moment is sopes. </p>
+      
+    <h3> My Engagement </h3>
+    <p>
+      This past summer I proposed to my fiancee Carianne Chavez. We recently celebrated 6 years dating this past January. Carianne currently works for the city of Manhatten Beach for the Traffic Engineering division and while pursuing her Master's degree at CSULB. Our favorite past time is visiting new baseball stadiums all around the country since one of our traveling goals to visit all 30 stadiums. So far we've been to 10/30 with some of our favorites being; Fenway Park, Wrigley Stadium, and Petco Park. She's a big Los Angeles Dodgers fan while unfortunately I like the Los Angeles Angels. 
+  </p> 
+
+  <h4> Work & Hobbies </h4>
+    <p>
+      I currently work at UPS as a Feeder supervisor. My position is called "Yard Control" where I supervisor the shifter employes. I am the person right before the package car driver as my job is to ensure you're packages move from east coast to the west coast or from hub to hub. My favorite sports teams are the <strong> Los Angeles Angels, Los Angeles Clippers, and Arsenal FC. </strong> My dad has always been a huge fan of the underdog teams so growing up basketball and baseball were always on so naturally I also rooted for those teams. I started rooting for Arsenal because growing up I used to play for Sunday League Soccer team named Arsenal and I've followed the team ever since. Some of my hobbies outside of watching and playing sports are going to the gym, watching anime, and playing video games. My favorite anime is One Piece and my favorite game to play is Rocket League.  
+  </p>
+  </div>
+
+  <div class="column">
+    
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 3</div>
+  <img src="photos/m2.jpeg" style="width:100%">
+  <div class="text">Me</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 3</div>
+  <img src="photos/engagement.jpeg" style="width:100%">
+  <div class="text">Engagement</div>
+</div>
+
+<div class="mySlides fade" >
+  <div class="numbertext">3 / 3</div>
+  <img src="photos/carianne.jpeg" style="width:100%">
+  <div class="text">My Fiancee</div>
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">❮</a>
+<a class="next" onclick="plusSlides(1)">❯</a>
+
+</div>
+<br>
+<p></p>
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+</div>
+</div>
+
+
+</div>
+</body>
+<br> <br>
+<footer>
+  <br>
+  <p>Contact me</p>
+
+  <div id="collect">
+    <form>
+      <p>
+        <label for="fname">First Name</label>
+        <input type="text" id="fname" name="fname" value="" />
+      </p>
+      <p>
+        <label for="lname">Last Name</label>
+        <input type="text" id="lname" name="lname" value="" />
+      </p>
+      <p>
+        <label for="email">Email</label>
+        <input type="text" id="email" name="email" value="" />
+      </p>
+      <p>
+        <label for="username">Username</label>
+        <input type="text" id="username" name="username" value="" />
+      </p>
+      <p>
+        <button id="btnSave">Save</button>
+      </p>
+    </form>
+  </div>
+  <div id="display">
+    <p>
+      <button id="btnExport"> CSV EXPORT</button>
+    </p>
+     
+  </div>
+</footer>
+</body>
+</html> 
