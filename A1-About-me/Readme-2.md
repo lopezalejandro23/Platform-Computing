@@ -23,9 +23,6 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="screenshot.jpeg" title='Screenshot of About Me Page' />
-<img src="screenshot2.jpeg">
-
 
 ## Notes:
 PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to add emphasis in text
@@ -33,3 +30,8 @@ PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to
   <li>**Example in bold**</li>
   <li>*Example in italics*</li>
 </ul>
+![about-me-display1](https://github.com/lopezalejandro23/Platform-Computing/assets/158085031/03be4efc-be81-4abe-bbe8-0aa305b49e03)
+
+
+
+![about-me-display2](https://github.com/lopezalejandro23/Platform-Computing/assets/158085031/d03a63a0-3137-4463-bdc5-95f15b54c9cb)
