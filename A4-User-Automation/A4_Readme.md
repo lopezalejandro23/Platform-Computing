@@ -2,7 +2,7 @@
 
 PROVIDE OVERVIEW OF ASSIGNMENT HERE
 
-Time e spent: **4/5HRS ** hours spent in total
+Time spent: **5 ** hours spent in total
 ## Features
 The following **required** features are completed:
 - [ ] Organize Github folders (2 pts)
