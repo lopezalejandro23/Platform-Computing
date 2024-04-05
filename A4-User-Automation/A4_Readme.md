@@ -5,7 +5,7 @@ PROVIDE OVERVIEW OF ASSIGNMENT HERE
 Time spent: **5 ** hours spent in total
 ## Features
 The following **required** features are completed:
-- [ ] Organize Github folders (2 pts)
+- [X] Organize Github folders (2 pts)
 - [x] Create a user with affinity towards keyword(s) and verify that it works (3
 pts)
 - [x] Create a user with affinity towards image(s) and verify that it works (3 pts)
