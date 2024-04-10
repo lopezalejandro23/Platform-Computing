@@ -29,5 +29,7 @@ add emphasis in text
 </ul>
 ![website-tracker-display](https://github.com/lopezalejandro23/Platform-Computing/assets/158085031/36f416ce-bc91-4523-ab7c-cebb8293c2bb)
 
+Screenshot below is keyword,image,links, and unique 
+
 ![website-tracker-display](https://github.com/lopezalejandro23/Platform-Computing/assets/158085031/db390464-f754-4d24-9ace-e6e18093e8f3)
 
