@@ -5,7 +5,7 @@ PROVIDE OVERVIEW OF ASSIGNMENT HERE
 Time e spent: **NUMBER_HOURS_SPENT** hours spent in total
 ## Features
 The following **required** features are completed:
-- [ ] Organize Github folders (2 pts)
+- [X] Organize Github folders (2 pts)
 - [x] Create a user with affinity towards keyword(s) and verify that it works (3
 pts)
 - [x] Create a user with affinity towards image(s) and verify that it works (3 pts)
@@ -15,8 +15,8 @@ pts)
 The following **bonus** features are implemented:
 - [x] Create a unique user with an affinity OUTSIDE of keywords, images, or links
 (1.5 pt)
-- [ ] Uploaded files for a unique user BOTH in javascript and python (1.5 pt)
-- [ ] DESCRIBE ANY OTHER FEATURES HERE.
+- [x] Uploaded files for a unique user BOTH in javascript and python (1.5 pt)
+- [X] DESCRIBE ANY OTHER FEATURES HERE. **I COPIED AND PASTED MY METRIC TRACKER WHICH RAN KEYWORD,IMAGES,LINK,UNIQUE, BUTTON AT THE SAME TIME IN PYTHON IN PYTHON FOLDER
 ## Screenshot and/or Video Walkthrough
 <img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough'
 width='' alt='Example Video Walkthrough' />
@@ -27,3 +27,6 @@ add emphasis in text
 <li>**Example in bold**</li>
 <li>*Example in italics*</li>
 </ul>
+
+
+![website-tracker-display](https://github.com/lopezalejandro23/Platform-Computing/assets/158085031/7ace1e4d-188b-4ac6-bc40-e39018cb7d66)
