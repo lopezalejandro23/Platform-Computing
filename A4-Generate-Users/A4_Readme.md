@@ -28,5 +28,6 @@ add emphasis in text
 <li>*Example in italics*</li>
 </ul>
 
+WEBSITE TRACKER DISPLAYS KEYWORD, IMAGE, LINKS, UNIQUE USER(BACKGROUND), AND BUTTON (EC)
 
 ![website-tracker-display](https://github.com/lopezalejandro23/Platform-Computing/assets/158085031/7ace1e4d-188b-4ac6-bc40-e39018cb7d66)
